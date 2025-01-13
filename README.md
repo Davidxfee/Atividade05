@@ -23,16 +23,16 @@ Configuração do Ambiente
 
 1. Clonar o Repositório
 
-git clone <URL-DO-REPOSITORIO>
-cd langchain-retrieval-qa
+git clone https://github.com/Davidxfee/Atividade05
+cd Atividade05
 
 2. Criar um Ambiente Virtual
 
 Certifique-se de estar usando Python 3.8 ou superior.
 
 python -m venv env
-source env/bin/activate  # Linux/macOS
-env\Scripts\activate    # Windows
+
+env\Scripts\activate    
 
 3. Instalar Dependências
 
